@@ -1,0 +1,6 @@
+{
+  "name": "CIBILI - Consultoría e Innovación Bibliotecológica",
+  "description": "Sitio web corporativo de CIBILI: especialistas en gestión de la información, servicios editoriales, formación especializada e investigación bibliotecológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
